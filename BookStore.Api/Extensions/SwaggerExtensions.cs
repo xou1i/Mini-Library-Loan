@@ -1,4 +1,3 @@
-using BookStore.Infrastructure.Constants;
 using Microsoft.OpenApi.Models;
 
 namespace BookStore.Api.Extensions;
